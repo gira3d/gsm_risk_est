@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+preferred-citation:
+  title: "Distance and Collision Probability Estimation from Gaussian Surface Models"
+  authors:
+    - family-names: Goel
+      given-names: Kshitij
+    - family-names: Tabib
+      given-names: Wennie
+  journal: "IEEE/RSJ International Conference on Intelligent Robots and Systems"
+  year: "2025"
+  type: conference-paper

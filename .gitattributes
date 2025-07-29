@@ -1,0 +1,1 @@
+examples/data/livingroom1_gmm_final_0.02.npz filter=lfs diff=lfs merge=lfs -text

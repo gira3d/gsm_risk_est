@@ -1,0 +1,5 @@
+{
+  "name": "gsm_risk_est",
+  "dependencies": { "ellipsoid_utils" },
+  "hooks": []
+}
